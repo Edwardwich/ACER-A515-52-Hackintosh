@@ -16,7 +16,7 @@
 - macOS Monterey 12.2
 
 
-## Config & SSDT & Kexts :
+##  Kexts :
 
 <details>  
 <summary> Kexts：</summary>
