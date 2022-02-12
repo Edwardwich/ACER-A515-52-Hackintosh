@@ -5,7 +5,7 @@
 | ------------------- | ---------------------------- |
 | CPU                 | Intel(R) Core(TM) i5-8265U   |
 | Integrated Graphics | Intel UHD Graphics 620       |
-| Sound Card          | Realtek ALC255 (layout-id: `28` or `77`) |
+| Sound Card          | Realtek ALC255 (layout-id: `29`) |
 | Wireless Card       | Cannon Point-LP CNVi [Wireless-AC]      |
 
 
